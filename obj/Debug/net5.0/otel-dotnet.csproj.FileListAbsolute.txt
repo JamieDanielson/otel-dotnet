@@ -1,0 +1,16 @@
+C:\Users\jamie\code\otel-testing\otel-dotnet\bin\Debug\net5.0\otel-dotnet.exe
+C:\Users\jamie\code\otel-testing\otel-dotnet\bin\Debug\net5.0\otel-dotnet.deps.json
+C:\Users\jamie\code\otel-testing\otel-dotnet\bin\Debug\net5.0\otel-dotnet.runtimeconfig.json
+C:\Users\jamie\code\otel-testing\otel-dotnet\bin\Debug\net5.0\otel-dotnet.runtimeconfig.dev.json
+C:\Users\jamie\code\otel-testing\otel-dotnet\bin\Debug\net5.0\otel-dotnet.dll
+C:\Users\jamie\code\otel-testing\otel-dotnet\bin\Debug\net5.0\ref\otel-dotnet.dll
+C:\Users\jamie\code\otel-testing\otel-dotnet\bin\Debug\net5.0\otel-dotnet.pdb
+C:\Users\jamie\code\otel-testing\otel-dotnet\obj\Debug\net5.0\otel-dotnet.csprojAssemblyReference.cache
+C:\Users\jamie\code\otel-testing\otel-dotnet\obj\Debug\net5.0\otel-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamie\code\otel-testing\otel-dotnet\obj\Debug\net5.0\otel-dotnet.AssemblyInfoInputs.cache
+C:\Users\jamie\code\otel-testing\otel-dotnet\obj\Debug\net5.0\otel-dotnet.AssemblyInfo.cs
+C:\Users\jamie\code\otel-testing\otel-dotnet\obj\Debug\net5.0\otel-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\jamie\code\otel-testing\otel-dotnet\obj\Debug\net5.0\otel-dotnet.dll
+C:\Users\jamie\code\otel-testing\otel-dotnet\obj\Debug\net5.0\ref\otel-dotnet.dll
+C:\Users\jamie\code\otel-testing\otel-dotnet\obj\Debug\net5.0\otel-dotnet.pdb
+C:\Users\jamie\code\otel-testing\otel-dotnet\obj\Debug\net5.0\otel-dotnet.genruntimeconfig.cache
